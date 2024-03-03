@@ -48,12 +48,10 @@ Mainly as Quality Assurane Engineer, i have knowledge to create web automation u
 
 ## 🔗Connect
 <p>
-    <a href="https://www.linkedin.com/in/sofie-miranti-khairunnisa/" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
-     <a href="https://www.instagram.com/sofiemiranti/" target="blank"><img src="https://img.shields.io/badge/-instagram-181717?style=for-the-badge&logo=instagram" /></a>
-</p>
+    <a href="https://www.linkedin.com/in/rayhan-arjunastya-miftaharif-7716b12b7" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
 
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: sofiemirantikha@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: arjunastya19@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
 </p>
