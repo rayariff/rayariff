@@ -29,8 +29,8 @@ Mainly as Quality Assurane Engineer, i have knowledge to create web automation u
 ## 📈Stats
 <p align="left">
 <a href="https://github.com/rayariff">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sofiemiranti&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sofiemiranti&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rayariff&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rayariff&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
