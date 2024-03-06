@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋 , I'm Rayhan!
-Mainly as Quality Assurane Engineer, i have knowledge to create web automation using Cucumber Selenium Java. API Testing using Postman and Cucumber Serenity BDD with Rest Assured. And having knowledge about Project Management Tools such a Trello and Test Case Management using TestRail.
+I am a qualified quality engineer with experience in designing and implementing test plans, conducting both automated and manual testing, and identifying software bugs. I am familiar with Agile methodologies and excel in communication and collaboration. Additionally, I am well-versed in testing tools such as Selenium, Postman, Trello, and TestRail.
 
 # Table of contents
 <!--ts-->
